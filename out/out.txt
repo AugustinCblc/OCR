@@ -1,0 +1,26 @@
+6.SAUVEGARDE
+Par contre, avec cette procédure vous avez perdu votre
+ texte d la colonne 801 qui était dans l'éditeur.
+Ainsi on doit non seulement sauvegarder le résultat de la page A4 mais aussi les différents textes d l'éditeur qui
+ont servi à créer cette page.
+ 
+Pour sauvegarder le contenu d l'éditeur :
+TEXTE/TRAITEMENT DE TEXTE/SAUVER DOCUMENT
+	  OPTIONS OUTILS TEXTE SYSTEME SCROLL  
+
+Vous êtes dans le gestionnaire d@ disquette, vous cliquez
+ sur le nom de fichier à droite du nom du lecteur. Vous
+ donnez un nom et ENTREE, puis vous cliquez sur SAUVER juste
+ en dessous, c'est fait. 
+Pour sauvegarder une page A4 :
+OPTIONS/PAGE/SAUVER et la procédure est la même. 
+ 7.IMPRESSION VIRTUELLE
+Vu que j'utilise un émulateur (bluemsx), la page A4
+ enregistrée sur la disquette à un format .PCT que j'extrais
+ de c@ support en utilisant WINIMAGE (utilitaire d@ gestion
+ de disquette pour PC). Je passe c fichier .PCT dans un
+programme (MS X VIENT qui me permet d visualiser ce format
+ et d'en obtenir une copie au format .bmp.
+
+
+page. 65 
